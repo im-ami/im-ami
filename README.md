@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im-ami
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Python for ML
+- 🌱 I’m currently learning Python for ML and front-end development
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me amirthini3704@gmail.com
 
