@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @im-ami
+- 👋 Hi, I’m Amirthini
 - 👀 I’m a Software Engineer Intern
 - 🌱 I’m currently interested in full stack development and machine learning
 
