@@ -4,9 +4,10 @@
 
 ### 🔗 My Profiles
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirthini-s)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirthini3704@gmail.com)
-![LeetCode Stats](https://leetcard.jacoblin.cool/ami3704?theme=dark&font=Karma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirthini3704@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirthini-s)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ami3704/)
+
 
 <!---
 im-ami/im-ami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
